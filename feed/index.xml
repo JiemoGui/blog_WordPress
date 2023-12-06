@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Dec 2023 11:54:48 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Dec 2023 15:33:54 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,70 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>图片测试</title>
+		<link>/%e5%9b%be%e7%89%87%e6%b5%8b%e8%af%95/</link>
+					<comments>/%e5%9b%be%e7%89%87%e6%b5%8b%e8%af%95/#respond</comments>
+		
+		<dc:creator><![CDATA[jiemogui]]></dc:creator>
+		<pubDate>Wed, 06 Dec 2023 15:33:54 +0000</pubDate>
+				<category><![CDATA[杂]]></category>
+		<guid isPermaLink="false">/?p=40</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="774" height="1024" src="/wp-content/uploads/2023/12/1-774x1024.jpg" alt="" class="wp-image-41" srcset="/wp-content/uploads/2023/12/1-774x1024.jpg 774w, /wp-content/uploads/2023/12/1-227x300.jpg 227w, /wp-content/uploads/2023/12/1-768x1016.jpg 768w, /wp-content/uploads/2023/12/1-670x886.jpg 670w, /wp-content/uploads/2023/12/1.jpg 998w" sizes="(max-width: 774px) 100vw, 774px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%e5%9b%be%e7%89%87%e6%b5%8b%e8%af%95/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>中文测试</title>
+		<link>/%e4%b8%ad%e6%96%87%e6%b5%8b%e8%af%95/</link>
+					<comments>/%e4%b8%ad%e6%96%87%e6%b5%8b%e8%af%95/#respond</comments>
+		
+		<dc:creator><![CDATA[jiemogui]]></dc:creator>
+		<pubDate>Wed, 06 Dec 2023 14:19:25 +0000</pubDate>
+				<category><![CDATA[杂]]></category>
+		<guid isPermaLink="false">/?p=32</guid>
+
+					<description><![CDATA[这是一个中文测试]]></description>
+										<content:encoded><![CDATA[
+<p>这是一个中文测试</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%e4%b8%ad%e6%96%87%e6%b5%8b%e8%af%95/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Test111</title>
+		<link>/test111/</link>
+					<comments>/test111/#respond</comments>
+		
+		<dc:creator><![CDATA[jiemogui]]></dc:creator>
+		<pubDate>Wed, 06 Dec 2023 14:19:02 +0000</pubDate>
+				<category><![CDATA[杂]]></category>
+		<guid isPermaLink="false">/?p=29</guid>
+
+					<description><![CDATA[1111]]></description>
+										<content:encoded><![CDATA[
+<p>1111</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/wp-content/uploads/2023/12/屏幕截图117-1024x576.png" alt="" class="wp-image-30" srcset="/wp-content/uploads/2023/12/屏幕截图117-1024x576.png 1024w, /wp-content/uploads/2023/12/屏幕截图117-300x169.png 300w, /wp-content/uploads/2023/12/屏幕截图117-768x432.png 768w, /wp-content/uploads/2023/12/屏幕截图117-1536x864.png 1536w, /wp-content/uploads/2023/12/屏幕截图117-520x293.png 520w, /wp-content/uploads/2023/12/屏幕截图117-670x377.png 670w, /wp-content/uploads/2023/12/屏幕截图117.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/test111/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>关于</title>
 		<link>/%e5%85%b3%e4%ba%8e/</link>
 					<comments>/%e5%85%b3%e4%ba%8e/#respond</comments>
